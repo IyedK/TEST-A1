@@ -13,3 +13,6 @@ input::placeholder {
 .btn {
   border-radius: 20px;
 }
+.bg {
+  background-color: brown;
+}
